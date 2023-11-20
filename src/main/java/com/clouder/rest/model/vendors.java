@@ -12,8 +12,18 @@ public class vendors {
     private String vendor_name;
     private String vendor_Address;
     private String vendor_mnum;
+    private String vendor_age ;
+
     
     
+    public String getVendor_age() {
+        return vendor_age;
+    }
+
+    public void setVendor_age(String vendor_age) {
+        this.vendor_age = vendor_age;
+    }
+
     public vendors() {
     }
 

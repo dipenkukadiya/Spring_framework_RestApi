@@ -1,9 +1,5 @@
 package service;
-
 import java.util.List;
-
-
-
 import com.clouder.rest.model.vendors;
 
 public interface cloudvendorservice {
